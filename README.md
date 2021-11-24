@@ -1,2 +1,6 @@
-# 1strepoAT
-1strepoAT
+# QA Data Engineer Course - Notebook 
+
+Python Practice
+Machine Learning
+Data Science
+Azure
